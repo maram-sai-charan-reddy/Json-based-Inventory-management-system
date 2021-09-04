@@ -2,11 +2,11 @@
 Using JSON to tackle the hard situations and to make it easy about how we make inventory management system.
 
 **Topics covered**
-Python 3
-JSON
-file handling
-usage of dictionaries
-time
+**Python 3,
+JSON,
+file handling,
+usage of dictionaries.
+time**
 
 I used jupyter notebook and python 3 to finish the task.
 
