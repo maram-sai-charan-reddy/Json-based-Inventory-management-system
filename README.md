@@ -1,6 +1,13 @@
 # Json-based-Inventory-management-system
 Using JSON to tackle the hard situations and to make it easy about how we make inventory management system.
 
+**Topics covered
+Python 3
+JSON
+file handling
+usage of dictionaries
+time**
+
 I used jupyter notebook and python 3 to finish the task.
 
 Firstly, we can take the data from input and give it to the dictionary, in my case it is named as resource.
