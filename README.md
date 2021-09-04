@@ -5,7 +5,7 @@ Using JSON to tackle the hard situations and to make it easy about how we make i
 **Python 3,
 JSON,
 file handling,
-usage of dictionaries.
+usage of dictionaries,
 time**
 
 I used jupyter notebook and python 3 to finish the task.
